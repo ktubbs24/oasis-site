@@ -2,12 +2,12 @@
 title: Welcome To My OASIS
 aliases: []
 type: oasis note
-cssClasses: 
 publish: true
 dg-publish: true
+dg-home: true
 ---
 
-🔺[[
+🔺[[OASIS Topic Map]]
 
 # Welcome To My OASIS
 ---

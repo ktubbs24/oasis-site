@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES-OASIS.md",
+                "file": "[0] Site pages/github token for oasis site.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES-OASIS.md",
+                "file": "[0] Site pages/github token for oasis site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES-OASIS.md",
+                "file": "[0] Site pages/github token for oasis site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES-OASIS.md"
+                "file": "[0] Site pages/github token for oasis site.md"
               }
             }
           }
@@ -143,9 +143,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "1443230478c081e3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "[0] Site pages/Welcome To My OASIS.md",
+    "[0] Site pages/github token for oasis site.md",
+    "[0] Site pages/[0] Site pages.md",
+    "[0] Site pages/About OASIS.md",
+    "[0] Site pages/OASIS Topic Map.md",
+    "NOTES-OASIS.md"
+  ]
 }
